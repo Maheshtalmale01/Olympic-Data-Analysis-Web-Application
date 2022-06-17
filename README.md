@@ -27,3 +27,19 @@ Broadly This Application Will be divide into Four parts.
  𝐃𝐞𝐦𝐨 𝐇𝐞𝐫𝐨𝐤𝐮 𝐖𝐞𝐛 𝐀𝐩𝐩 𝐋𝐢𝐧𝐤:- https://oda-mahesht.herokuapp.com/
  
  𝐃𝐚𝐭𝐚𝐬𝐞𝐭 :-https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+ 
+ 
+ 
+
+![stram 1](https://user-images.githubusercontent.com/86426154/174328636-2f0a761b-6613-4968-83a6-033b57825069.png)
+
+
+
+
+https://user-images.githubusercontent.com/86426154/174333338-d3041266-e680-4282-833c-6d197577bce0.mp4
+
+
+
+
+
+
